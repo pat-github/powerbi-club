@@ -629,6 +629,12 @@ if(!is_null($events)){
                                             'ทำความรู้จัก ETL',
                                             'https://bcplineoa.bangchak.co.th/powerbi-club/uploadimage/c5.png',
                                             $actionBuilder5
+                                        ),
+                                        new CarouselColumnTemplateBuilder(
+                                            'EP.07',
+                                            'ทำความรู้จัก DAX',
+                                            'https://bcplineoa.bangchak.co.th/powerbi-club/uploadimage/c1.png',
+                                            $actionBuilder5
                                         ),                                         
                                     )
                                 )
